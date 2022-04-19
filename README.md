@@ -1,4 +1,4 @@
-[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder-mcgill.conp.cloud/v2/gh/neurolibre/repo2data-caching/master?filepath=notebooks%2Fnilearn-example.ipynb)
+[![Binder](https://binder.conp.cloud/badge_logo.svg)](https://binder.conp.cloud/v2/gh/neurolibre/repo2data-caching/master?filepath=notebooks%2Fnilearn-example.ipynb)
 
 # data-caching-binder-test
 
